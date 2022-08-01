@@ -1,1 +1,1 @@
-# milestone4-module18-loop-practice-problems
+# milestone4-module18-js-loop-practice-problems
